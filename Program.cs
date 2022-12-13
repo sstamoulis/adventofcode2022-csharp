@@ -13,6 +13,7 @@ class Program {
             typeof(Day7),
             typeof(Day8),
             typeof(Day9),
+            typeof(Day12),
         };
 
         foreach (var day in days) {
